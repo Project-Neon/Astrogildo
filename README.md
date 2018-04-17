@@ -1,5 +1,5 @@
 # Astrogildo
-Project Neon`s autonomous robot for Sumo Lego competitions under 1 kg.
+Project Neon's autonomous robot for Sumo Lego competitions under 1 kg.
 
 # Contribuitors
 * [Gabriel Mendes](https://github.com/GaMendes)

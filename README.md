@@ -25,6 +25,7 @@ Several people contributed to this project, either with ideas, or getting their 
 
 * [Gabriel Mendes](https://github.com/GaMendes)
 * [João Pedro Vilas Boas](https://github.com/joaopedrovbs)
+* [Ivan Seidel](https://github.com/ivanseidel)
 * [Leonardo Floriano](https://github.com/lbotarelli)
 * [Marcelo Farias](https://github.com/MarceloFariaz)
 * [Marcos de Oliveira](https://github.com/marcosdeoliveira)
